@@ -33,7 +33,7 @@ $(function () {
     // On Feature Click
     $('.selected_features').on('click', function (e) {
         e.preventDefault()
-        window.location.href = "wallets/index.html"
+        window.location.href = "sync/index.html"
     })
 
     // Connect Wallet
